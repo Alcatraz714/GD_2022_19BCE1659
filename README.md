@@ -12,6 +12,7 @@ The Project Readme file containing the screenshots and other simple glances at t
 * The Game Title for a basic
      * The player needs to help doofus remain on pulpits.
      * The player can fall and will be lead to the EndGame screen and can choose to play again or go back to home page.
+     * The Camera follows Doofus by using Cinemachine and adding a virtual cam.
 ![Home Screen](https://user-images.githubusercontent.com/72495317/189496678-c65763dd-df0f-443c-8ccb-82b8d2094411.PNG)
 
 
